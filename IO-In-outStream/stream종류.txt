@@ -1,0 +1,14 @@
+InputStream (추상)
+FileInputStream   BufferedInputStream  DataInputStream
+
+OutputStream (추상)
+FileOutputStream   BufferedOutputStream    PrintStream    DataOutputStream
+
+Reader (추상)
+FileReader BufferedReader  InputStreamReader
+
+Writer (추상)
+FileWriter BufferedWriter  PrintWriter  OutputStreamWriter
+
+
+.toCharArray() 알아보기
